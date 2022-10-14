@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there  👋
+🔭 I’m Chandra Reddy Tiyyagura.
 
+🌱  I’m currently learning Machine Learning, Deep Learning, Big Data
+
+💬 Ask me about machine learning, deep learning and Big Data.
+
+📫 Reach out to me on LinkedIn https://www.linkedin.com/in/c21hawke
 <!--
 **c21hawke/c21hawke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
