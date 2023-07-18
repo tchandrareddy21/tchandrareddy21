@@ -14,7 +14,10 @@
 
 <hr>
 
-[linkedin]: [https://www.linkedin.com/in/c17hawke](https://www.linkedin.com/in/tiyyagurachandrareddy)
+[linkedin]: https://www.linkedin.com/in/tiyyagurachandrareddy
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyyagurachandrareddy&" alt="tiyyagurachandrareddy" /></p>
 <!--
 **c21hawke/c21hawke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
