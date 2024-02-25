@@ -19,11 +19,6 @@
 
 [linkedin]: https://www.linkedin.com/in/tiyyagurachandrareddy
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="tiyyagurachandrareddy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tiyyagurachandrareddy?trk=profile-badge"></a></div>
-              
-<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyyagurachandrareddy&label=Profile%20views&color=0e75b6&style=flat" alt="tiyyagurachandrareddy" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyyagurachandrareddy&" alt="tiyyagurachandrareddy" /></p>
 <!--
