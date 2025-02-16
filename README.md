@@ -1,9 +1,8 @@
 # Hi there  👋
 <h1 align="center">I'm chandra</h1>
 
-🌱  I’m currently learning Machine Learning, Deep Learning, Big Data
 
-💬 Ask me about machine learning, deep learning and Big Data.
+💬 
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
