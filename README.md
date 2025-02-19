@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchandrareddy21&size_weight=0.5&count_weight=0.5&langs_count=8&hide_progress=true&theme=dark" alt="tchandrareddy21" />
 </p>
 
-## Top Repos:
+## Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=sensor-fault-detection&theme=dark)]([https://github.com/tchandrareddy21/github-readme-stats](https://github.com/tchandrareddy21/sensor-fault-detection?tab=readme-ov-file#sensor-fault-detection))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=logs-classification&theme=dark)]([https://github.com/tchandrareddy21/github-readme-stats](https://github.com/tchandrareddy21/sensor-fault-detection?tab=readme-ov-file#sensor-fault-detection))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=financial-product-complaint&theme=dark)]([https://github.com/tchandrareddy21/github-readme-stats](https://github.com/tchandrareddy21/financial-product-complaint?tab=readme-ov-file#financial-product-complaint))
