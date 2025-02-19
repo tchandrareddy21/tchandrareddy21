@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Reddy</h1>
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1100&pause=100&color=80FFDB&background=14213D00&center=true&vCenter=true&width=435&lines=Software+Engineer;Python;Machine+Learning;Deep+Learning;Natural+Language+Processing;Generative+AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1100&pause=100&color=80FFDB&background=14213D00&center=true&vCenter=true&width=435&lines=Software+Engineer;Python;SQL;Machine+Learning;Deep+Learning;Natural+Language+Processing;Generative+AI;Large+Language+Models" alt="Typing SVG" /></a>
 </h3>
 
 
