@@ -23,9 +23,9 @@
 </p>
 
 ## Top Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=sensor-fault-detection&theme=dark)](https://github.com/tchandrareddy21/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=logs-classification&theme=dark)](https://github.com/tchandrareddy21/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=financial-product-complaint&theme=dark)](https://github.com/tchandrareddy21/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=sensor-fault-detection&theme=dark)]([https://github.com/tchandrareddy21/github-readme-stats](https://github.com/tchandrareddy21/sensor-fault-detection?tab=readme-ov-file#sensor-fault-detection))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=logs-classification&theme=dark)]([https://github.com/tchandrareddy21/github-readme-stats](https://github.com/tchandrareddy21/sensor-fault-detection?tab=readme-ov-file#sensor-fault-detection))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=financial-product-complaint&theme=dark)]([https://github.com/tchandrareddy21/github-readme-stats](https://github.com/tchandrareddy21/financial-product-complaint?tab=readme-ov-file#financial-product-complaint))
 
 <!--
 ## My Status:
