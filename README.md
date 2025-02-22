@@ -20,7 +20,9 @@
 
 ## Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=sensor-fault-detection&theme=dark&border_color=F4BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/sensor-fault-detection)
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=financial-product-complaint&theme=dark&border_color=F4BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/financial-product-complaint)
+-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=logs-classification&theme=dark&border_color=F4BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/logs-classification)
 
 
