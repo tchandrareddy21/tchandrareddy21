@@ -13,7 +13,7 @@
 ## Languages And Tools:
 <p align="center">
   <a href="https://github.com/tchandrareddy21">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,pytorch,tensorflow,aws,docker,fastapi,flask,git,github,githubactions,mongodb,heroku,postman,pycharm,anaconda,figma&perline=9" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mysql,numpy,sklearn,pandas,pytorch,tensorflow,aws,docker,matplotlib,seaborn,fastapi,flask,git,github,githubactions,mongodb,postman,pycharm,anaconda,figma,langchain,groq,huggingface,notion,&perline=12" />
   </a>
 </p>
 
