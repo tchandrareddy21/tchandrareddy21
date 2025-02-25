@@ -6,6 +6,7 @@
 
 
 - 🚀 I am open to work and currently serving my **notice period** at 💼 **HCL Tech**, where I work as a **Software Engineer**.
+- 🌐 Check out my **[Portfolio](https://codebasics.io/portfolio/Tiyyagura-Chandra-Reddy)** to explore my work!
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/tchandrareddy21)** 🤝.
 - 📧 Reach me at **tchandrareddy21@gmail.com**.
 - 💻 All of my projects are available at [GitHub](https://github.com/tchandrareddy21?tab=repositories) 🚀.
