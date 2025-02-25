@@ -18,7 +18,7 @@
 </p>
 
 
-## Top Repositories:
+## Pinned Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=APS-failure-classification&theme=dark&border_color=F3BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/APS-failure-classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=logs-classification&theme=dark&border_color=F3BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/logs-classification)
 
