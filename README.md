@@ -22,6 +22,8 @@
 ## Pinned Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=APS-failure-classification&theme=dark&border_color=F3BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/APS-failure-classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=logs-classification&theme=dark&border_color=F3BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/logs-classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=llm-based-document-qa-with-rag&theme=dark&border_color=F3BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/llm-based-document-qa-with-rag)
+
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tchandrareddy21&repo=financial-product-complaint&theme=dark&border_color=F4BB44&title_color=2f80ed&text_color=fffefe)](https://github.com/tchandrareddy21/financial-product-complaint)
